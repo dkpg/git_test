@@ -1,0 +1,1 @@
+This is pingu66's first Git project!
